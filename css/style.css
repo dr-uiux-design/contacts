@@ -111,7 +111,7 @@ a:hover, a:active, a:visited {
 
 .header {
   width: 100%;
-  min-height: 200px;
+  min-height: 150px;
   background: url("../img/header-img.jpg") no-repeat center;
   background-size: cover;
 }
@@ -322,7 +322,7 @@ a:hover, a:active, a:visited {
 
 @media (max-width: 390px) {
   .header {
-    min-height: 120px;
+    min-height: 100px;
   }
   .profile__photo {
     width: 96px;
