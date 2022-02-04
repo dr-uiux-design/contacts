@@ -320,7 +320,7 @@ a:hover, a:active, a:visited {
   font-size: 14px;
 }
 
-@media (max-width: 414px) {
+@media (max-width: 480px) {
   .header {
     min-height: 100px;
   }
