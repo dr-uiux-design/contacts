@@ -222,7 +222,6 @@ a:hover, a:active, a:visited {
   -ms-grid-rows: (1fr)[3];
       grid-template-rows: repeat(3, 1fr);
   grid-gap: 15px;
-  margin-bottom: 15px;
 }
 
 .btn {
@@ -367,6 +366,7 @@ a:hover, a:active, a:visited {
   opacity: 0.8;
   -webkit-transition: opacity 0.3s ease-in-out;
   transition: opacity 0.3s ease-in-out;
+  z-index: 9999;
 }
 
 .theme-icon:active {
