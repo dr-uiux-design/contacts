@@ -1,3 +1,32 @@
+@font-face {
+	font-family: 'SFDisplay';
+	src: url('../fonts/SFUIDisplay-Heavy.woff2');
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SFDisplay';
+	src: url('../fonts/SFUIDisplay-Semibold.woff2');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SFText';
+	src: url('../fonts/SFUIText-Regular.woff2');
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'SFText';
+	src: url('../fonts/SFUIText-Regular.woff2');
+	font-weight: 600;
+	font-style: normal;
+}
+
 body,
 html {
 	height: 100%;
